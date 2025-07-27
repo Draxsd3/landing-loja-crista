@@ -16,7 +16,7 @@ Certifique-se de ter o **Node.js** e o **npm** instalados.
 
 ```sh
 # Clone o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Draxsd3/landing-loja-crista
 
 # Acesse a pasta do projeto
 cd veste-com-proposito-89
